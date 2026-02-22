@@ -1,0 +1,4 @@
+Model,Accuracy,F1,Recall (churn),Precision (churn),AUC,Threshold
+Baseline (dummy),0.5,0.39,0.5,,,
+Logistic Regression,0.78,0.57,0.62,,,
+XGBoost (tuned),0.75,0.62,0.77,0.52,0.84,0.53
