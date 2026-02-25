@@ -5,4 +5,5 @@ seaborn>=0.12.0
 scikit-learn>=1.2.0
 xgboost>=1.7.0
 shap>=0.42.0
+streamlit>=1.25.0
 jupyter>=1.0.0
