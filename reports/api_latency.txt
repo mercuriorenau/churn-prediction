@@ -1,0 +1,4 @@
+endpoint: POST /predict (FastAPI TestClient)
+runs: 100 (warmup: 10)
+mean_ms: 1.51
+p95_ms: 1.98
